@@ -3,8 +3,9 @@
 made a talikng chatbot with python with following modules:
 
 1. speech to text using google's speech to text api
-2. sentiment analysis on spoken text to detect whether it is positive or negative
-3. text to speech using pyttsx
+2. chatbot is implemented using pyaiml with google's alice bot replies
+3. sentiment analysis on spoken text to detect whether it is positive or negative
+4. text to speech using pyttsx
 
 
 to use this file:
